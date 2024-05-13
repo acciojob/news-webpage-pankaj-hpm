@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.header {
+	color:white;
+	text-align:center;
+	padding:0px;
+	background-color:#011e29;
+	
+}
+.last-news-section{
+	
+}
+.pictorial-news-section {
+	text-align:center;
+	background-color:#f5f5f5;
+	padding:10px;
+	width:20px;
+	border-radius:50px;
+}
